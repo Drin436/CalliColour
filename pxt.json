@@ -1,0 +1,25 @@
+{
+    "name": "CalliColour",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "callibot": "github:MKleinSB/pxt-callibot#v1.0.1",
+        "pxt-callicolor": "github:MKleinSB/pxt-callicolor#v0.3.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.29",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
